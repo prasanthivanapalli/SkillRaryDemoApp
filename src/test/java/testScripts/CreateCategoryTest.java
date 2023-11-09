@@ -12,6 +12,8 @@ import generiClibraies.BaseClass;
 import generiClibraies.IconstantPath.IconstanPath;
 
 public class CreateCategoryTest  extends BaseClass{
+
+	//This code is success
 	
 	@Test
 	public void createCategoryTest() throws InterruptedException
